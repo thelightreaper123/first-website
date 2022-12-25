@@ -1,0 +1,156 @@
+#header{
+    width: 100%;
+    background-color: white;
+    top: -100px;
+    transition: top 0.3s;
+    position: fixed;
+    z-index:1001;
+    }
+    
+    #header a:hover {
+        background-color: #ddd;
+        color: white;
+      }
+    
+    #eye{
+        margin-top: 10px;
+        float: left;
+    }
+    
+    #headertext{
+        float: left;
+        margin-top: 25px;
+    }
+    
+    #headertext1{
+       font-weight: bolder;
+       font-family: 'Courier New', Courier, monospace;
+       font-size: 22px;
+    }
+    
+    #headertext2{
+        font-size: 11px;
+    }
+    
+    #butthead1{
+        width:150px ;
+        height: 40px;
+        background-color: white;
+        border-radius: 20px;
+        border: 2px solid;
+        color: black;
+        font-size: 16px;
+        margin-top: 25px;
+        cursor: pointer;
+    }
+    
+    #butthead2{
+        width:150px ;
+        height: 40px;
+        background-color: black;
+        border-radius: 22px;
+        border: none;
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 25px;
+        cursor: pointer;
+    }
+    
+    #buttheadr1{
+       margin-top: 25px;
+       margin-left: 900px;
+        cursor: pointer;
+    }
+    
+    #buttheadr2{
+        margin-left: 20px;
+        margin-top: 25px;
+         cursor: pointer;
+     }
+
+     .contactb{
+        width: 100%;
+        height: 900px;
+     }
+
+     #contact1{
+        font-size: 120px;
+        font-family: 'Courier New', Courier, monospace;
+     }
+
+     #talkc{
+        font-weight: bold;
+     }
+
+     .contactb p{
+        float: left;
+        
+     }
+
+     #contact2{
+       margin-top: 150px;
+        margin-left: 95px;
+        font-size: 20px;
+     }
+
+     #Ad{
+        float: right;
+        width: 700px;
+     }
+
+    .line{
+        background-color: black;
+        width: 100%;
+        height: 2px;
+    }
+
+     .bottomc{
+        background-color: white;
+        width: 100%;
+        height: 180px;
+     }
+
+     #bottom1op{
+       margin-left: 20px;
+     }
+
+     #bottomc1 p{
+        float: left;
+        color: gray;
+        margin-top: 20px;
+     }
+
+     #bottomc1 #bottom1{
+        margin-left: 300px;
+     }
+
+     #bottom2op{
+        margin-left: 20px;
+        clear: left;
+      }
+ 
+      #bottomc2 p{
+         float: left;
+         color: gray;
+         margin-top: 20px;
+      }
+ 
+      #bottomc2 #bottom2{
+         margin-left: 270px;
+      }
+
+      #bottom3op{
+        margin-left: 20px;
+        clear: left;
+      }
+ 
+      #bottomc3 p{
+         float: left;
+         color: gray;
+         margin-top: 20px;
+      }
+ 
+      #bottomc3 #bottom3{
+         margin-left: 270px;
+      }
